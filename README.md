@@ -18,6 +18,8 @@ Singapore Polytechnic (VR)
 
 ## GIFs
 
+Please wait while the Gifs load.
+
 ![com Phibonacci SingaporePolytechnic-20230913-112436_Trim](https://github.com/RitikW/Simulation/assets/47923739/e123f6ff-382c-465b-b9aa-7d225b66da27)
 ![comPhibonacciSingaporePolytechni (3)](https://github.com/RitikW/Simulation/assets/47923739/f583dd15-9154-481e-8f8a-66a75602cf87)
 ![comPhibonacciSingaporePolytechni (2)](https://github.com/RitikW/Simulation/assets/47923739/3c540d29-5304-43de-93e4-fb59c19070df)
@@ -40,6 +42,9 @@ Singapore Polytechnic (VR)
 - The project provides guidance and support, as well as tracks and evaluates their performance for diffenet scenarios via backend server.
 
 ## GIFs
+
+Please wait while the Gifs load.
+
 ![Concentrix-Trim1](https://github.com/RitikW/Simulation/assets/47923739/a9dfe1b5-5469-4bb3-8711-59db8155c87e)
 ![Concentrix-Trim](https://github.com/RitikW/Simulation/assets/47923739/ac90b784-3bf7-4346-8380-c6b60a7dc4ff)
 ![Concentrix-new-material-Trim](https://github.com/RitikW/Simulation/assets/47923739/32be7e03-b5d4-408b-8f9f-e4532b063f47)
@@ -63,6 +68,8 @@ Manomax (AR)
  
 ## GIFs
 
+Please wait while the Gifs load.
+
 ![AR-App-Walkthrough-1-002-Trim-Tr (2)](https://github.com/RitikW/Simulation/assets/47923739/3cfee005-8d83-4963-bb32-8a4c9edf2ca6))
 ![AR-App-Walkthrough-1-002-Trim-Tr](https://github.com/RitikW/Simulation/assets/47923739/bf591979-327a-473f-988f-50971c6185e0)
 ![AR-App-Walkthrough-1-002-Trim2-T](https://github.com/RitikW/Simulation/assets/47923739/0fd7386e-ecc7-4970-9a6e-ccc4c7bc005f)
@@ -84,6 +91,8 @@ Wärtsilä Demo
 
 ## GIFs
 
+Please wait while the Gifs load.
+
 ![Ship-WalkThrough-Trim](https://github.com/RitikW/Simulation/assets/47923739/cbe269c8-e383-43aa-9824-bec7a41c5b05)
 ![Ship-WalkThrough-Trim-1](https://github.com/RitikW/Simulation/assets/47923739/cce132ec-105f-42b9-b887-4d9e1ecdf86f)
 ![Ship-WalkThrough-Trim2-1](https://github.com/RitikW/Simulation/assets/47923739/a24ad3c9-5e34-4fed-9aef-a6f487839ce2)
@@ -103,6 +112,8 @@ Poly
 - The project provides diagnostics and troubleshooting tools that help the trainees to identify and resolve any issues or errors that may occur with the Poly phone. 
 
 ## GIFs
+
+Please wait while the Gifs load.
 
 ![Poly-Trim](https://github.com/RitikW/Simulation/assets/47923739/23252172-1429-450f-8fce-a8eebb061bd8)
 ![Poly-Trim2](https://github.com/RitikW/Simulation/assets/47923739/fef2a9fb-a21b-471b-9706-62160596ac19)
@@ -125,6 +136,8 @@ HP Omen (VR)
 
  ## GIFs
 
+Please wait while the Gifs load.
+
 ![Hardware-Troubleshooting-Trim2](https://github.com/RitikW/Simulation/assets/47923739/f909b976-9404-4d97-ae7e-891730a63267)
 ![Troubleshooting-HP-VR-11-10-2021](https://github.com/RitikW/Simulation/assets/47923739/bb8a1645-7cfe-4d4c-97b4-9ddc45697158)
 ![Hardware-Troubleshooting-Trim2-1](https://github.com/RitikW/Simulation/assets/47923739/8a47e4ea-c47e-424b-b61b-2f4f2187ec73)
@@ -145,6 +158,8 @@ HP Desktop
 - The project offers different interactive activities for the replacement of the parts in the desktop.The project also provides free roam the office to explore different parts of the Omen Desktop.
   
 ## GIFs
+
+Please wait while the Gifs load.
 
 ![Omen-30L-Training-2022-07-26-17](https://github.com/RitikW/Simulation/assets/47923739/66b1b16c-27d8-4567-82bd-2eeb69a131e0)
 ![Omen-30L-Training-2022-07-26-17 (1)](https://github.com/RitikW/Simulation/assets/47923739/8a8ed7d1-dac0-47c5-97dd-b571aa6aa77c)
@@ -167,6 +182,8 @@ HP Desktop
 
 ## GIs
 
+Please wait while the Gifs load.
+
 ![HP-WARG-Trim](https://github.com/RitikW/Simulation/assets/47923739/7f3e6ebd-4a69-4701-89b8-0d80120f3012)
 ![HP-Warse-Trim2-Trim](https://github.com/RitikW/Simulation/assets/47923739/624ab860-8965-4711-bc82-9fe0b9e2dc9e)
 ![HP-Warse-Trim2-Trim2](https://github.com/RitikW/Simulation/assets/47923739/a2674b85-ee31-42f4-a7c4-664a141c8d6f)
@@ -184,6 +201,8 @@ HP Desktop
 ## Description
 
 ## GIFs
+
+Please wait while the Gifs load.
 
  </details>
 
